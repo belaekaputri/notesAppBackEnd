@@ -1,0 +1,3 @@
+meneraplan data validation pada notes api(membuat notes schema dan validator)
+npm install joi
+buat folder baru di src -> validator > notes > index.js && schema.js
